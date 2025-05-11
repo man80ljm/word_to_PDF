@@ -1,0 +1,72 @@
+2025-05-11 14:22:04,473 - INFO - 已选择文件：
+D:/word_to_PDF/测试/1.八仙过海盲盒玩偶设计.pptx
+D:/word_to_PDF/测试/2.产品设计毕业答辩安排.xlsx
+D:/word_to_PDF/测试/3.基于云南非遗屋脊神兽瓦猫形象的情感化灯具设计.doc
+D:/word_to_PDF/测试/4.黄紫晴.doc
+D:/word_to_PDF/测试/5.张雪.doc
+D:/word_to_PDF/测试/6.陈婷婷.doc
+D:/word_to_PDF/测试/7.李贤衡.pptx
+D:/word_to_PDF/测试/8.服务器的选择和购买.txt
+D:/word_to_PDF/测试/9.服务器的选择和购买.txt
+D:/word_to_PDF/测试/10.libreoffice好用吗-秘塔AI搜索.mhtml
+D:/word_to_PDF/测试/11.一文带你扫盲关于Affiliate这件事 - 知乎.html
+2025-05-11 14:22:10,846 - INFO - 环境检查：LibreOffice=可用，wkhtmltopdf=可用，Office=可用，WPS=可用
+2025-05-11 14:22:12,458 - INFO - 检测到 LibreOffice：
+2025-05-11 14:22:12,458 - INFO - 检测到 wkhtmltopdf：wkhtmltopdf 0.12.6 (with patched qt)
+2025-05-11 14:22:12,459 - INFO - 开始转换文件 [1/11]：D:/word_to_PDF/测试/1.八仙过海盲盒玩偶设计.pptx
+2025-05-11 14:22:14,471 - INFO - 已删除现有文件：D:/word_to_PDF/测试\1.八仙过海盲盒玩偶设计.pdf
+2025-05-11 14:22:35,826 - INFO - [1/11] LibreOffice 转换成功：D:/word_to_PDF/测试/1.八仙过海盲盒玩偶设计.pptx
+2025-05-11 14:22:35,826 - INFO - 开始转换文件 [2/11]：D:/word_to_PDF/测试/2.产品设计毕业答辩安排.xlsx
+2025-05-11 14:22:37,837 - INFO - 已删除现有文件：D:/word_to_PDF/测试\2.产品设计毕业答辩安排.pdf
+2025-05-11 14:22:39,091 - INFO - [2/11] LibreOffice 转换成功：D:/word_to_PDF/测试/2.产品设计毕业答辩安排.xlsx
+2025-05-11 14:22:39,092 - INFO - 开始转换文件 [3/11]：D:/word_to_PDF/测试/3.基于云南非遗屋脊神兽瓦猫形象的情感化灯具设计.doc
+2025-05-11 14:22:41,107 - INFO - 已删除现有文件：D:/word_to_PDF/测试\3.基于云南非遗屋脊神兽瓦猫形象的情感化灯具设计.pdf
+2025-05-11 14:22:59,848 - INFO - [3/11] LibreOffice 转换成功：D:/word_to_PDF/测试/3.基于云南非遗屋脊神兽瓦猫形象的情感化灯具设计.doc
+2025-05-11 14:22:59,848 - INFO - 开始转换文件 [4/11]：D:/word_to_PDF/测试/4.黄紫晴.doc
+2025-05-11 14:23:01,863 - INFO - 已删除现有文件：D:/word_to_PDF/测试\4.黄紫晴.pdf
+2025-05-11 14:23:07,325 - INFO - [4/11] LibreOffice 转换成功：D:/word_to_PDF/测试/4.黄紫晴.doc
+2025-05-11 14:23:07,325 - INFO - 开始转换文件 [5/11]：D:/word_to_PDF/测试/5.张雪.doc
+2025-05-11 14:23:09,342 - INFO - 已删除现有文件：D:/word_to_PDF/测试\5.张雪.pdf
+2025-05-11 14:23:10,662 - INFO - [5/11] LibreOffice 转换成功：D:/word_to_PDF/测试/5.张雪.doc
+2025-05-11 14:23:10,662 - INFO - 开始转换文件 [6/11]：D:/word_to_PDF/测试/6.陈婷婷.doc
+2025-05-11 14:23:12,677 - INFO - 已删除现有文件：D:/word_to_PDF/测试\6.陈婷婷.pdf
+2025-05-11 14:23:15,165 - INFO - [6/11] LibreOffice 转换成功：D:/word_to_PDF/测试/6.陈婷婷.doc
+2025-05-11 14:23:15,165 - INFO - 开始转换文件 [7/11]：D:/word_to_PDF/测试/7.李贤衡.pptx
+2025-05-11 14:23:17,177 - INFO - 已删除现有文件：D:/word_to_PDF/测试\7.李贤衡.pdf
+2025-05-11 14:23:21,062 - INFO - [7/11] LibreOffice 转换成功：D:/word_to_PDF/测试/7.李贤衡.pptx
+2025-05-11 14:23:21,062 - INFO - 开始转换文件 [8/11]：D:/word_to_PDF/测试/8.服务器的选择和购买.txt
+2025-05-11 14:23:24,371 - INFO - [8/11] LibreOffice 转换成功：D:/word_to_PDF/测试/8.服务器的选择和购买.txt
+2025-05-11 14:23:24,371 - INFO - 开始转换文件 [9/11]：D:/word_to_PDF/测试/9.服务器的选择和购买.txt
+2025-05-11 14:23:27,640 - INFO - [9/11] LibreOffice 转换成功：D:/word_to_PDF/测试/9.服务器的选择和购买.txt
+2025-05-11 14:23:27,640 - INFO - 开始转换文件 [10/11]：D:/word_to_PDF/测试/10.libreoffice好用吗-秘塔AI搜索.mhtml
+2025-05-11 14:23:29,658 - INFO - 已删除现有文件：D:/word_to_PDF/测试\10.libreoffice好用吗-秘塔AI搜索.pdf
+2025-05-11 14:23:32,225 - ERROR - [10/11] wkhtmltopdf 转换失败（尝试 1/3）：D:/word_to_PDF/测试/10.libreoffice好用吗-秘塔AI搜索.mhtml，错误：wkhtmltopdf 错误：wkhtmltopdf reported an error:
+Exit with code 1 due to network error: ProtocolUnknownError
+
+2025-05-11 14:23:33,232 - INFO - 已删除现有文件：D:/word_to_PDF/测试\10.libreoffice好用吗-秘塔AI搜索.pdf
+2025-05-11 14:23:35,714 - ERROR - [10/11] wkhtmltopdf 转换失败（尝试 2/3）：D:/word_to_PDF/测试/10.libreoffice好用吗-秘塔AI搜索.mhtml，错误：wkhtmltopdf 错误：wkhtmltopdf reported an error:
+Exit with code 1 due to network error: ProtocolUnknownError
+
+2025-05-11 14:23:36,718 - INFO - 已删除现有文件：D:/word_to_PDF/测试\10.libreoffice好用吗-秘塔AI搜索.pdf
+2025-05-11 14:23:39,224 - ERROR - [10/11] wkhtmltopdf 转换失败（尝试 3/3）：D:/word_to_PDF/测试/10.libreoffice好用吗-秘塔AI搜索.mhtml，错误：wkhtmltopdf 错误：wkhtmltopdf reported an error:
+Exit with code 1 due to network error: ProtocolUnknownError
+
+2025-05-11 14:23:39,225 - INFO - 已删除现有文件：D:/word_to_PDF/测试\10.libreoffice好用吗-秘塔AI搜索.pdf
+2025-05-11 14:23:44,141 - WARNING - LibreOffice stderr: Error: source file could not be loaded
+
+2025-05-11 14:23:44,141 - ERROR - [10/11] LibreOffice 转换失败（尝试 1/3）：D:/word_to_PDF/测试/10.libreoffice好用吗-秘塔AI搜索.mhtml，错误：LibreOffice 错误：LibreOffice 转换失败，未生成 PDF 文件。详情：Error: source file could not be loaded
+
+2025-05-11 14:23:46,391 - WARNING - LibreOffice stderr: Error: source file could not be loaded
+
+2025-05-11 14:23:46,391 - ERROR - [10/11] LibreOffice 转换失败（尝试 2/3）：D:/word_to_PDF/测试/10.libreoffice好用吗-秘塔AI搜索.mhtml，错误：LibreOffice 错误：LibreOffice 转换失败，未生成 PDF 文件。详情：Error: source file could not be loaded
+
+2025-05-11 14:23:48,649 - WARNING - LibreOffice stderr: Error: source file could not be loaded
+
+2025-05-11 14:23:48,649 - ERROR - [10/11] LibreOffice 转换失败（尝试 3/3）：D:/word_to_PDF/测试/10.libreoffice好用吗-秘塔AI搜索.mhtml，错误：LibreOffice 错误：LibreOffice 转换失败，未生成 PDF 文件。详情：Error: source file could not be loaded
+
+2025-05-11 14:23:48,650 - ERROR - [10/11] 最终转换失败：D:/word_to_PDF/测试/10.libreoffice好用吗-秘塔AI搜索.mhtml，错误：LibreOffice 错误：LibreOffice 转换失败，未生成 PDF 文件。详情：Error: source file could not be loaded
+
+2025-05-11 14:23:48,650 - INFO - 开始转换文件 [11/11]：D:/word_to_PDF/测试/11.一文带你扫盲关于Affiliate这件事 - 知乎.html
+2025-05-11 14:23:50,656 - INFO - 已删除现有文件：D:/word_to_PDF/测试\11.一文带你扫盲关于Affiliate这件事 - 知乎.pdf
+2025-05-11 14:23:55,117 - INFO - [11/11] wkhtmltopdf 转换成功：D:/word_to_PDF/测试/11.一文带你扫盲关于Affiliate这件事 - 知乎.html
+2025-05-11 14:23:55,117 - INFO - 所有文件转换完成
